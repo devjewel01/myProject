@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="don_t_have_an_account_yet_signup_now">Don\'t have an account yet? SignUp Now!</string>
+    <string name="you_seem_new_here_signup">You Seem New Here? SignUp</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="expense_manager">Expense Manager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="typesOfTransactions">
+        <item>Food</item>
+        <item>Social Life</item>
+        <item>Transportation</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
