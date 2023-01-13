@@ -5,7 +5,7 @@
     2. [Autonomous Car](https://github.com/devjewel01/piCar)
     3. [Teslon](https://github.com/devjewel01/teslon)
     4. [Tution Point](https://github.com/devjewel01/tuitionPoint)
-    5. [Expense Manager Android App]()
+    5. [Expense Manager Android App](./ExpenseManagerApp/)
     6. [Robot Blueberry](https://github.com/devjewel01/Robot-Blueberry)
     7. [Face Detection](./Face-detection/)
     8. [Transportation Problem](./Transportation-Problem/)
